@@ -2,7 +2,7 @@
 layout: post
 title:  "Instalación de prestashop con bitnami"
 date:   2024-02-19 16:55:46 -0600
-categories: kubernetes iaw
+categories: docker instalación
 ---
 
 
