@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Instalación de prestashop con bitnami"
-date:   2024-02-19 16:55:46 -0600
+date:   2024-02-19 06:00:00 -0600
 categories: docker bitnami
 ---
 
