@@ -220,7 +220,7 @@ Es necesario crear, estas redes y volumenes al final para que se asigne de forma
 
 Comprobacion de que al lanzar el comando ``docker-compose up`` funcione.
 
-![alt text](capturas/captura-prestashop.PNG)
+![alt text]({{ site.url }}capturas/captura-prestashop.PNG)
 
 Podemos comprobar que se ha ejecutado la instruccion correctamente y ya está prestashop instalado.
 
