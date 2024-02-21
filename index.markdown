@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Esta es la página principal
+
+
+Pagina principal con los posts
